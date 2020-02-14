@@ -6,7 +6,6 @@ use Test::Exception;
 use Test::Warn;
 
 use st::api::lims;
-use Data::Dump qw(pp);
 
 use_ok('npg_tracking::util::pipeline_config');
 
